@@ -1,4 +1,4 @@
-# KEST2VW Lokaverkefni vor 2020 (20%)
+# KEST2VW Lokaverkefni vor 2021 (20%)
 Verkefnið skal halda utan um í lokaðri geymslu á [GitHub](https://github.com). Áður en lengra er haldið skaltu því búa til nýja lokaða geymslu og bjóða svo kennaranum þínum inn á hana sem samstarfsaðila (e. collaborator). Skilaðu svo hlekknum á geymsluna í skilahólfið á Innu.
 
 Þú þarft að halda dagbók á github um hvað þú gerir og hvenær.
